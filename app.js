@@ -11,11 +11,9 @@ let menu = [{ item: "Biryani", Price: 'Rs.500', description: 'Biryani is a flavo
 
 { item: "Zinger Burger", Price: 'Rs.650', description: 'Our famous burger made with crispy on the outside juicy on the inside chicken breast topped with seasoned cabbage & drizzled with spicy Zinger sauce all served in a soft sesame seed bun.', image: './assets/zinger.jfif', category: 'Fast Food' },
 
-{ item: "Crispy Broast", Price: 'Rs.650', description: 'Savor the tropical delight of our mango shakes, blending sweet, ripe mangoes with chilled milk for a refreshing and creamy beverage. Garnished with a slice of fresh mango and served ice-cold, its a perfect choice to beat the heat and enjoy the essence of summer in every sip', image: './assets/broast.jfif', category: 'Fast Food' },
+{ item: "Crispy Broast", Price: 'Rs.650', description: 'Broasting is a special cooking process that combines pressure frying and traditional shallow frying to produce juicy chunks of fried chicken with a crispy outer layer. The process begins by marinating the chicken in spices and seasonings before placing it in a sealed pressure cooker containing hot oil. This tightly closed environment allows the heat to cook the meat quickly without losing any moisture or flavor. Once cooked, the chicken is removed from the pressurized environment and finished off with some traditional shallow frying to create a golden-brown crust on the outside.', image: './assets/broast.jfif', category: 'Fast Food' },
 
-{ item: "Chiken Tikka", Price: 'Rs.450', description: 'Savor the tropical delight of our mango shakes, blending sweet, ripe mangoes with chilled milk for a refreshing and creamy beverage. Garnished with a slice of fresh mango and served ice-cold, its a perfect choice to beat the heat and enjoy the essence of summer in every sip', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRto4n4dAoSeIQeytbn5kfpjFtLlTqTqc0aqw&s', category: 'Bar-B-Q' },
-
-{ item: "Malai Boti", Price: 'Rs.350', description: 'Savor the tropical delight of our mango shakes, blending sweet, ripe mangoes with chilled milk for a refreshing and creamy beverage. Garnished with a slice of fresh mango and served ice-cold, its a perfect choice to beat the heat and enjoy the essence of summer in every sip', image: 'https://i.ytimg.com/vi/5lWCwZ8fzmA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCtbNMNZ0aR8dlfCAEZ9_gBYqe_cA', category: 'Bar-B-Q' },
+{ item: "Chiken Tikka", Price: 'Rs.450', description: 'A chicken tikka sizzler is a dish where chicken tikka is served on a heated plate with onions. ', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRto4n4dAoSeIQeytbn5kfpjFtLlTqTqc0aqw&s', category: 'Bar-B-Q' },
 ];
 
 
