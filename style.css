@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+
+#header {
+    width: 80%;
+    height: 800px;
+    text-align: center;
+}
+
+
+#btn-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+#btn {
+    padding: 5px 15px;
+    border: 2px solid goldenrod;
+    color: goldenrod;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1.1rem;
+}
+
+#btn:hover {
+    background-color: goldenrod;
+    color: white;
+    border: 2px solid white;
+}
+
+#heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.2rem;
+}
+
+.cards {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first-card {
+    width: 50%;
+    height: 150px;
+    display: flex;
+}
+
+#image-area {
+    width: 35%;
+    height: 100%;
+}
+
+#image-area img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid goldenrod;
+    border-radius: 6px;
+}
+
+#inner-material {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#amount {
+    color: goldenrod;
+    margin-left: 80px;
+}
+
+#item {
+    font-size: 1.5rem;
+    padding: 0px 10px;
+    color: rgb(104, 102, 102);
+}
+
+#description {
+    color: grey;
+    text-align: left;
+    padding: 0px 10px;
+
+
+}
